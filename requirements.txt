@@ -1,0 +1,8 @@
+streamlit==1.36.0
+numpy
+pandas
+matplotlib
+requests
+Pillow
+joblib
+sarvamai
